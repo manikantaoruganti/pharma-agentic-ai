@@ -6,7 +6,7 @@ using multi-agent orchestration with Large Language Models.
 
 __version__ = "1.0.0"
 __author__ = "Team P16"
-__email__ = "team@pharma-agentic-ai.com"
+__email__ = "team"
 
 from src.agents.base_agent import BaseAgent
 from src.agents.drug_discovery_agent import DrugDiscoveryAgent
