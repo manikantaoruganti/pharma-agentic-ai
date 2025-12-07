@@ -268,16 +268,12 @@ LOG_LEVEL=INFO
 
 **Members**:
 - Manikanta Venkateswarlu Oruganti - AI Architect, LangChain Integration
-- [Team Member 2] - Data Engineer, API Integration
-- [Team Member 3] - Frontend Developer, UI/UX
-- [Team Member 4] - Pharma Domain Expert
-- [Team Member 5] - DevOps, Cloud Infrastructure
-
+  
 ### 📊 EY Techathon 6.0 Submission
 
 - **Round**: 2 - Detailed Presentation
 - **Status**: SUBMITTED
-- **Achievement**: Rank 2, Position 2 (Round 1)
+- **Achievement**:Featured as 2nd position in executive summary submission 
 - **Deadline**: 10 Dec 2025
 
 ### 🎯 Innovation Highlights
@@ -296,8 +292,8 @@ MIT License - See LICENSE file
 ### 📞 Contact
 
 **Team P16**
-- Institution: JNTUK (Jawaharlal Nehru Technological University Kakinada)
-- Email: team.p16@jntuk.edu.in
+- Institution:
+- Email: 
 - GitHub: https://github.com/manikantaoruganti/pharma-agentic-ai
 
 ---
