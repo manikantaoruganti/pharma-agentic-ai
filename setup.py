@@ -7,7 +7,6 @@ setup(
     name="pharma-agentic-ai",
     version="0.1.0",
     author="Team P16",
-    author_email="p16@techathon2025.com",
     description="Agentic AI for Pharmaceutical Drug Discovery - EY Techathon 6.0",
     long_description=long_description,
     long_description_content_type="text/markdown",
